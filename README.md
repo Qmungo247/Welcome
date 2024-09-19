@@ -1,4 +1,4 @@
-# Quincy
+
 <h1> I'm Quincy, an <a href="https://linkedin.com/in/quincy-mungo-488863322">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
